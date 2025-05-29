@@ -67,7 +67,8 @@ const akshat = {
 <p align="center">
   <a href="https://www.linkedin.com/in/akshatpat3l/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akshatpat3l@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://graphinitylab.com"><img src="https://graphinitylab.com/gl_logo.webp" /></a>
+  <a href="https://graphinitylab.com"><img src="https://graphinitylab.com/gl_logo.webp" alt="Graphinity Logo" style="height:32px; width:32px; object-fit:contain;" />
+</a>
 </p>
 
 ---
