@@ -1,26 +1,76 @@
-# 👋 Hi, I'm Akshat Patel!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Akshat+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Building+dope+UI+%2B+scalable+APIs+%F0%9F%9A%80;Let's+build+something+awesome!+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
-I'm a passionate Full Stack Developer from Canada 🇨🇦
+---
 
-- 🔭 I’m currently working on: [Graphinity Labs](https://graphinitylab.com)
-- 🌱 I’m learning: Web Animation, AI Integration, Secure Auth Systems
-- 💬 Ask me about: JavaScript, React, Node.js, MongoDB
-- 📫 Reach me: akshatpat3l@gmail.com
-- ⚡ Fun fact: I do 100 pushups a day 💪
+# 🧑‍💻 About Me
 
-## 🚀 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+```js
+const akshat = {
+  pronouns: "he/him",
+  code: ["JavaScript", "Node.js", "React", "MongoDB", "TailwindCSS", "Next.js"],
+  askMeAbout: ["Web Dev", "Backend", "Animations", "APIs", "Fitness"],
+  techStack: {
+    frontend: ["React", "Tailwind", "GSAP", "Framer Motion"],
+    backend: ["Node.js", "Express", "MongoDB", "JWT"],
+    tools: ["VSCode", "Git", "Postman", "Render", "GitHub Actions"]
+  },
+  currentlyBuilding: "Graphinity Roots 🌱",
+  funFact: "Doing 100 pushups daily 💪"
+}
+```
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,javascript,html,css,figma,github,vscode" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshatpatel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatpatel&layout=compact&theme=tokyonight)
 
-## 🌱 Currently Learning
-- GSAP / Three.js for Animations
-- Advanced Auth: JWT, OAuth2, Sessions
-- Scaling MongoDB + Redis Caching
-- DevOps: Docker, GitHub Actions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkshatPat3l&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatPat3l&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatPat3l&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Akshat's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshatPat3l&theme=tokyo-night)](https://github.com/AkshatPat3l)
+
+---
+
+## 🚀 Currently Learning
+
+- `Three.js` + `Canvas API` for 3D web experiences
+- `Docker`, `Redis`, and scalable backend techniques
+- `Advanced Auth Flows` (JWT, OAuth2)
+
+---
+
+## 🌟 Featured Projects
+
+- [🌱 Graphinity Roots](https://roots.graphinitylab.com): LinkTree alternative with customizable themes and analytics
+- [📋 Employee Management System](https://github.com/AkshatPat3l/ems): Role-based MERN system with dashboard & HR tools
+
+---
+
+## 😎 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatkumar-patel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:akshatpat3l@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://graphinitylab.com"><img src="https://img.shields.io/badge/GraphinityLab-000000?logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+> 🔥 *"Code like poetry, write like jazz, and build like a machine."*  
+> — Akshat Patel 🚀
