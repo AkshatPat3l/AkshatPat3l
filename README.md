@@ -67,8 +67,8 @@ const akshat = {
 <p align="center">
   <a href="https://www.linkedin.com/in/akshatpat3l/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akshatpat3l@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://graphinitylab.com">
-  <img src="https://img.shields.io/badge/Graphinity_Labs-ff5c5c?style=for-the-badge&logo=https://raw.githubusercontent.com/GraphinityLab/graphinity/main/public/gl_logo.png&logoWidth=20" alt="Graphinity Labs" />
+ <a href="https://graphinitylab.com">
+  <img src="https://img.shields.io/badge/Graphinity_Labs-ff5c5c?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAYCAYAAAD5mBKKAAAACXBIWXMAAAsTAAALEwEAmpwYAAABhklEQVR4nO2WvU4CQRiGf6cnKhb/gIyAInN4AQnGgYhGNiYCciAnYygqZlgwCszFYyML8Hi8gfYTk1Lz1uW5NLPX1/t7brv7wwFfgEOwAzqAAvABrwGjwAA8AG8ARTgIzwC+4B37AGdkepSVXYrYC0HYwlZ8DEUwAK3sEV5RFAHyso1ciH+kKIgAGXvCPZzUL+xAGNNzHLSGuSgoA8Ajv4oB6GBmU9WzMFKIzCb3uIApN41ZcNMOWcM6CTqzQAxj9FAa0HDkIH7CKV2AAbHxXlnIgDInHdZVLTFSgZkpqBGnyBASrzsAzbfCkkdggYCE1pHTq4xVkXhrZTjj1jA+Q54Qo8IXzq0YlwvnDD1BR88Fd0KzAHOdbzNuAfMUBfzDJmsk4tEb7ZVYAbvG7y16CiePoCuZtPfGiYw+U6KzD3uDt9A7crYwJcUu6sxB1/Lvgr80UoHNPZ+aAAAAAElFTkSuQmCC" alt="Graphinity Labs Badge" />
 </a>
 
 
