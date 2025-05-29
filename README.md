@@ -67,9 +67,34 @@ const akshat = {
 <p align="center">
   <a href="https://www.linkedin.com/in/akshatpat3l/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akshatpat3l@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://graphinitylab.com" target="_blank">
-    <img src="https://img.shields.io/badge/Graphinity_Labs-black?logo=https://raw.githubusercontent.com/AkshatPat3l/assets/main/gl_logo.png&logoWidth=14&style=for-the-badge" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshatpat3l/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="mailto:akshatpat3l@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://graphinitylab.com" target="_blank" style="text-decoration: none;">
+    <span style="
+      display: inline-flex;
+      align-items: center;
+      background-color: #d93025;
+      color: white;
+      font-family: 'Segoe UI', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 3px 10px;
+      border-radius: 4px;
+      line-height: 1;
+      height: 20px;
+      gap: 6px;
+    ">
+      <img src="https://raw.githubusercontent.com/AkshatPat3l/assets/main/gl_logo.png" alt="Graphinity Logo" style="height: 14px; width: 14px; object-fit: contain;" />
+      Graphinity Labs
+    </span>
+  </a>
+</p>
+
 </p>
 
 
