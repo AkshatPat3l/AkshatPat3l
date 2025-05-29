@@ -16,8 +16,7 @@ const akshat = {
     backend: ["Node.js", "Express", "MongoDB", "JWT"],
     tools: ["VSCode", "Git", "Postman", "Render", "GitHub Actions"]
   },
-  currentlyBuilding: "Graphinity Roots 🌱",
-  funFact: "Doing 100 pushups daily 💪"
+  currentlyBuilding: "Graphinity Roots 🌱"
 }
 ```
 
