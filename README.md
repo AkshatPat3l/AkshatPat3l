@@ -68,8 +68,9 @@ const akshat = {
   <a href="https://www.linkedin.com/in/akshatpat3l/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akshatpat3l@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
 <a href="https://graphinitylab.com">
-  <img src="https://img.shields.io/badge/Graphinity_Labs-Creative%20Tech-ff5c5c?style=for-the-badge&logo=https://raw.githubusercontent.com/AkshatPat3l/assets/main/gl_logo.png&logoWidth=20" alt="Graphinity Labs Badge" />
+  <img src="https://img.shields.io/badge/Graphinity_Labs-CREATIVE%20TECH-ff5c5c?style=for-the-badge&logo=https://raw.githubusercontent.com/AkshatPat3l/assets/main/gl_logo.png&logoWidth=20" alt="Graphinity Labs Badge" />
 </a>
+
 
 
 
