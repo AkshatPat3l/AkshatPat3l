@@ -42,7 +42,8 @@ const akshat = {
 
 ## 📈 GitHub Activity Graph
 
-[![Akshat's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshatPat3l&theme=tokyo-night)](https://github.com/AkshatPat3l)
+[![Akshat's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshatPat3l&theme=tokyo-night)](https://github.com/AkshatPat3l)
+
 
 ---
 
