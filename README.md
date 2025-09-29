@@ -58,7 +58,7 @@ const akshat = {
 ## 🌟 Featured Projects
 
 - Website (https://graphinitylab.com): Graphinity Lab Website
-- Graphinity Roots (https://github.com/GraphinityLab/graphinity-roots): Link Tree Alternative
+- Graphinity Roots (https://github.com/GraphinityLab/dure-backend): Link Tree Alternative
 
 ---
 
