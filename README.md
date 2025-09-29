@@ -16,7 +16,7 @@ const akshat = {
     backend: ["Node.js", "Express", "MongoDB", "JWT"],
     tools: ["VSCode", "Git", "Postman", "Render", "GitHub Actions"]
   },
-  currentlyBuilding: "Graphinity Roots 🌱"
+  currentlyBuilding: "Duré Aesthetics Salon Booking System"
 }
 ```
 
